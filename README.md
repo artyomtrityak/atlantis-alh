@@ -1,5 +1,5 @@
 # Atlantis Little Helper configuration file
-Atlantis PBEM - Atlantis Little Helper (ALH) config, miskatonic ruleset.
+Atlantis PBEM - Atlantis Little Helper (ALH) config, miskatonic ruleset (incolmplete)
 
 ## Instructions
 1. Download client here: https://sourceforge.net/projects/alh/
@@ -9,3 +9,5 @@ Atlantis PBEM - Atlantis Little Helper (ALH) config, miskatonic ruleset.
 5. NOTE: you might have different OS fonts so you need to take `[FONTS_2]` section from your generated ah.cfg and replace it.
 
 
+## Work in progress
+This config is not complete and is going to be updated step by step. Feel free to submit PR if you want to add something.
