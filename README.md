@@ -2,7 +2,7 @@
 Atlantis PBEM - Atlantis Little Helper (ALH) config, miskatonic ruleset (incolmplete)
 
 ## Instructions
-1. Download client here: https://sourceforge.net/projects/alh/
+1. Download client here: http://atlantis-pbem.com/game-client
 2. Copy client to separated folder with your game
 3. Launch client, ah.cfg file will be created
 4. Close client, replace your ah.cfg file with ah.cfg file from this repo
